@@ -3,6 +3,9 @@
 [![Qt](https://img.shields.io/badge/Qt-6.8-green.svg)](https://www.qt.io/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](#)
 
+**[⬇️ Скачать zip или установщик](https://boosty.to/room_bodun/posts/a3253094-97b9-4e38-83cc-a77097a5e6d0?share=post_link)**
+**[⬇️ Download zip or installer](https://boosty.to/room_bodun/posts/a3253094-97b9-4e38-83cc-a77097a5e6d0?share=post_link)**
+
 **[🇷🇺 Русский](#ru) · [🇬🇧 English](#en)**
 
 ---
