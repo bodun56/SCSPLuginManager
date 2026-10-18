@@ -48,7 +48,7 @@
 
 Plugin manager for **Euro Truck Simulator 2** and **American Truck Simulator**. The app auto-detects installed games (including Steam libraries), lists DLL plugins from the `bin\win_x64\plugins` folder, and lets you enable, disable, install, and remove them — no more manual file renaming.
 
-![Screenshot](docs/screenshot_en.png)
+![Screenshot](docs/SCSPluginManager.jpg)
 
 ### Features
 
