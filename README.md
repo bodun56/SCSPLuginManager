@@ -39,11 +39,6 @@
 5. Кнопка **«Удалить плагин»** — удаляет файл (и все его вспомогательные файлы) после подтверждения.
 6. Кнопка **«Открыть папку плагинов»** — открывает `plugins` выбранной игры в Проводнике.
 
-### Лицензия
-
-Проект распространяется под лицензией **Apache License 2.0**. Полный текст — в файле [LICENSE](LICENSE).
-
-Использует **Qt 6.8** (LGPLv3) — динамическая линковка, см. [лицензию Qt](https://www.qt.io/licensing).
 
 ---
 
@@ -78,9 +73,3 @@ Plugin manager for **Euro Truck Simulator 2** and **American Truck Simulator**. 
 4. The **"Install plugin..."** button opens a menu with three options: files, ZIP, folder.
 5. The **"Delete plugin"** button removes the file (plus all auxiliary files) after confirmation.
 6. The **"Open plugins folder"** button opens the selected game's `plugins` directory in Explorer.
-
-### License
-
-Distributed under the **Apache License 2.0**. Full text in the [LICENSE](LICENSE) file.
-
-Uses **Qt 6.8** (LGPLv3) — dynamically linked, see the [Qt license](https://www.qt.io/licensing).
